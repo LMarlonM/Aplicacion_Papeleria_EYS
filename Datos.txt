@@ -1,0 +1,9 @@
+Aplicacion MyM - Inventario y facturacion de una papeleria
+
+Instalar
+
+ - Xampp
+ - Direccion: http://localhost/papeleria/principal.php
+ - Clave: 	Usuario: mmartinez@gmail.com
+		Clave: 123456 
+ - Debe crear una base de datos en PHPmyadmin con nombre papeleria2 y importa la base de datos
